@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 329" preserveAspectRatio="xMidYMid meet">
+  <title>Clown Car Technique</title>
+  <style>
+    svg {
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+    }
+    @media (max-width: 320px) {
+      svg { background-image: url("http://placehold.it/320.jpg/FF4136"); }
+    }
+    @media (min-width: 321px) and (max-width: 563px) {
+      svg { background-image: url("http://placehold.it/564.jpg/FF4136"); }
+    }
+    @media (min-width: 564px) and (max-width: 767px) {
+      svg { background-image: url("http://placehold.it/767.jpg/0074D9"); }
+    }
+    @media (min-width: 768px) and (max-width: 991px) {
+      svg { background-image: url("http://placehold.it/992.jpg/2ECC40"); }
+    }
+    @media (min-width: 992px) and (max-width: 1199px){
+      svg { background-image: url("http://placehold.it/1200.jpg/FFDC00"); }
+    }
+    @media (min-width: 1200px) {
+      svg { background-image: url("http://placehold.it/2048.jpg/F012BE"); }
+    }
+  </style>
+</svg>
